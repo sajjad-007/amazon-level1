@@ -168,12 +168,12 @@ input{
 /*======hero-section=====*/
 .hero-section{
     height: 450px;
-    width: 1226px;
+    width: 100%;
     background-color: green;
 }
 .hero-img{
     height: 450px;
-    width: 1226px;
+    width: 100%;
     background-image: url(./images/hero-section.jpg);
     background-size:cover;
     display: flex;
